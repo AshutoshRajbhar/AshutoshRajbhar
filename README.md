@@ -1,4 +1,4 @@
-h1>👋  Ashutosh Rajbhar</h1>
+<h1>👋  Ashutosh Rajbhar</h1>
 <br /> 
 
                     
@@ -6,7 +6,8 @@ h1>👋  Ashutosh Rajbhar</h1>
 
                     
 
-<p align="left">Hey, I'm Ashutosh Rajbhar, a web developer passionate about crafting digital experiences. With expertise in HTML, CSS, JavaScript, and various frameworks, I turn ideas into functional web realities. I thrive on optimizing user experiences, building responsive websites, and creating interactive web applications. I'm a lifelong learner and open-source enthusiast, actively contributing to the developer community on GitHub. Let's collaborate and build something incredible together! Explore my repositories, and feel free to reach out with questions or collaboration ideas. Together, we can create web experiences that leave a lasting impact. 🌐🚀📚🌟</p>
+<p align="left">Hey, I'm Ashutosh Rajbhar, a web developer passionate about crafting digital experiences. With expertise in HTML, CSS, JavaScript, and various frameworks, I turn ideas into functional web realities. I thrive on optimizing user experiences, building responsive websites, and creating interactive web applications. I'm a lifelong learner and open-source enthusiast, actively contributing to the developer community on GitHub.</p>
+<p align="left">Let's collaborate and build something incredible together! Explore my repositories, and feel free to reach out with questions or collaboration ideas. Together, we can create web experiences that leave a lasting impact. 🌐🚀📚🌟</p>
 <p align="left"> 
   <a href="https://github.com/AshutoshRajbhar?tab=repositories&sort=stargazers#gh-light-mode-only">
     <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/AshutoshRajbhar?color=3ea97d&style=for-the-badge&labelColor=40b682&logo=star#gh-light-mode-only"/></a>
@@ -28,7 +29,7 @@ h1>👋  Ashutosh Rajbhar</h1>
 
 <h2>Languages and Tools</h2> 
 <p align="left">
-<img width="280px"  src="https://skillicons.dev/icons?i=HTML,CSS,JavaScript,ReactJs,Wordpress,Shopify,Figma,&perline=9"  />
+<img width="280px"  src="https://skillicons.dev/icons?i=html,css,bootstrap,js,react,wordpress,Shopify,git,github&perline=9"  />
 </p>
 <br />
 
@@ -62,8 +63,8 @@ h1>👋  Ashutosh Rajbhar</h1>
 
 <h2>My Latest Project</h2> 
 <br />
-<p><a href="https://github.com/AshutoshRajbhar/#gh-dark-mode-only" target="_blank"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=AshutoshRajbhar&repo=&theme=nightowl&show_owner=true#gh-dark-mode-only"/></a></p>
-<p><a href="https://github.com/AshutoshRajbhar/#gh-light-mode-only" target="_blank"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=AshutoshRajbhar&repo=&theme=vue&show_owner=true#gh-light-mode-only"/></a></p>
+<p><a href="https://github.com/AshutoshRajbhar/amazon_clone#gh-dark-mode-only" target="_blank"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=AshutoshRajbhar&repo=amazon_clone&theme=nightowl&show_owner=true#gh-dark-mode-only"/></a></p>
+<p><a href="https://github.com/AshutoshRajbhar/amazon_clone#gh-light-mode-only" target="_blank"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=AshutoshRajbhar&repo=amazon_clone&theme=vue&show_owner=true#gh-light-mode-only"/></a></p>
 <br />
 
 
