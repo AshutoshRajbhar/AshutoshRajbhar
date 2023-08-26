@@ -29,7 +29,7 @@
 
 <h2>Languages and Tools</h2> 
 <p align="left">
-<img width="280px"  src="https://skillicons.dev/icons?i=html,css,bootstrap,js,react,wordpress,Shopify,git,github&perline=9"  />
+<img width="280px"  src="https://skillicons.dev/icons?i=html,css,bootstrap,js,react,wordpress,git,github&perline=9"  />
 </p>
 <br />
 
